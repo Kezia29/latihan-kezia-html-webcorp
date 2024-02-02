@@ -1,0 +1,190 @@
+.logo-head{
+    width: 220px;
+    height:auto;   
+}
+
+.side-title > h3{
+    font-size: 21px;
+    margin-bottom:3px;
+}
+
+.side-title > p{
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.social-media>img{
+    width: 30px;
+    height: auto;
+}
+
+.navbar-custom{
+    background-image: url(images/bg-menu.jpg);
+}
+
+li.active{
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.judul{
+    font-family: DauphinPlain;
+    color:#0F3065;
+}
+
+/* buat side kanan/kiri yang kecil2 */
+
+.logo-miniside{
+    display: inline;
+}
+
+.news > .title-news {
+    color: #153870;
+    font-size: 15px;
+}
+
+.news > .desc{
+    color: #877e85;
+    font-size: 12px;
+}
+
+.news > .desc-sidenews {
+    font-size: 11px;
+}
+
+.news {
+    padding-right: 10px;
+}
+
+hr.newside {
+    border: 1px solid  #153870;
+    background-color: #153870 !important;
+    opacity: 100;
+
+}
+
+textarea.form-control{
+    width: 100% !important;
+    height: 150px !important;
+    padding: 22px 20px !important;
+}
+
+/* buat halaman about */
+
+.article {
+    position: relative;
+}
+
+
+.text-article > h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-family: DauphinPlain;
+    display: block;
+}
+
+.text-article > p{
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 15px 0;
+}
+
+/* gawe footer */
+
+.footer {
+    background-color: #0F3065;
+}
+
+/* Gawe menu warta  */
+
+.warta > .title {
+    font: size 14px;
+    color:#153870;
+    font-weight: bold;
+}
+
+.warta > .desc {
+    font: size 12px;
+    color:#6294C0;
+}
+
+.warta > .desc {
+    font: size 12px;
+    color:#877e85;
+}
+
+/* gawe porotofolio */
+
+.col-4 > .img-tumbnail {
+    border: 3px solid #CDCDCD;
+    background-color: #EDEDED;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px !important;
+    height: 200px;
+}
+
+.col-4 > h3 {
+    font-size: 18px;
+}
+
+.col-4 > p {
+    font-size: 12px;
+}
+
+.col-4 > a{
+    font-size: 12px;
+}
+
+/* gawe carousel */
+
+.carouselhah {
+    background-color: #0F3065;
+    height: 500px;
+}
+
+.carousel-image {
+    margin-top: 10px;
+    height: 350px;
+}
+
+.carousel-jeroan {
+    height:400px;
+}
+
+/* GAWE HOME - SING BAGIAN CONTAINE DESKTOP */
+
+.desktop {
+    background-color: #F7F7F7;
+    border: 1px solid #D1D1D1;
+}
+
+.desktop > img {
+    height:75px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.desktop > .title-desktop {
+    margin:0;
+    font-size: 24px;
+    text-decoration: solid;
+}
+
+.desktop > p {
+    margin:0;
+    font-size:16px;
+}
+
+/* CONTAINER GAMBAR GAK JELAS */
+
+.gambar2gakjelas {
+    height:80px;
+    padding:5px 3px;
+}
+
+.gambar2gakjelas >img{
+    margin: 1px;
+}
